@@ -1,0 +1,128 @@
+[global_config]
+  dbus = False
+  focus = mouse
+  geometry_hinting = True
+  window_state = maximise
+  inactive_color_offset = 0.8006756756756757
+  suppress_multiple_term_dialog = True
+  always_split_with_profile = True
+[keybindings]
+  zoom_in = <Alt>plus
+  zoom_out = <Alt>minus
+  zoom_normal = <Alt>0
+  zoom_in_all = <Primary><Alt>plus+
+  zoom_out_all = <Primary><Alt>minus
+  zoom_normal_all = <Primary><Alt>0
+  new_tab = <Alt>n
+  cycle_next = <Alt>Tab
+  cycle_prev = <Shift><Alt>Tab
+  go_next = ""
+  go_prev = ""
+  go_up = ""
+  go_down = ""
+  go_left = ""
+  go_right = ""
+  rotate_cw = ""
+  rotate_ccw = ""
+  split_horiz = <Primary><Shift>d
+  split_vert = <Primary>d
+  close_term = <Alt>x
+  copy = <Primary>c
+  paste = <Primary>v
+  toggle_scrollbar = ""
+  search = ""
+  close_window = ""
+  resize_up = ""
+  resize_down = ""
+  resize_left = ""
+  resize_right = ""
+  move_tab_right = ""
+  move_tab_left = ""
+  toggle_zoom = ""
+  scaled_zoom = ""
+  next_tab = ""
+  prev_tab = ""
+  reset = ""
+  reset_clear = ""
+  hide_window = ""
+  group_all = ""
+  ungroup_all = ""
+  group_tab = ""
+  ungroup_tab = ""
+  new_window = ""
+  new_terminator = ""
+  insert_number = ""
+  insert_padded = ""
+  edit_window_title = <Alt>t
+  edit_tab_title = ""
+  edit_terminal_title = ""
+  layout_launcher = ""
+  next_profile = <Alt>p
+  preferences = <Alt>comma
+  help = ""
+[profiles]
+  [[default]]
+    icon_bell = False
+    background_color = "#1a1b26"
+    font = Monospace 12
+    foreground_color = "#c0caf5"
+    show_titlebar = False
+    palette = "#15161e:#f7768e:#9ece6a:#e0af68:#7aa2f7:#bb9af7:#7dcfff:#a9b1d6:#414868:#f7768e:#9ece6a:#e0af68:#7aa2f7:#bb9af7:#7dcfff:#9d7cd8"
+    login_shell = True
+    use_system_font = False
+  [[gruvbox-light]]
+    icon_bell = False
+    background_color = "#eee8d5"
+    font = Monospace 12
+    foreground_color = "#002b36"
+    show_titlebar = False
+    palette = "#073642:#dc322f:#859900:#b58900:#268bd2:#d33682:#2aa198:#eee8d5:#002b36:#cb4b16:#586e75:#657b83:#839496:#6c71c4:#93a1a1:#fdf6e3"
+    use_system_font = False
+[layouts]
+  [[default]]
+    [[[child0]]]
+      type = Window
+      parent = ""
+      order = 0
+      position = 0:0
+      maximised = True
+      fullscreen = False
+      size = 1920, 1051
+      title = elias@elias-asus-temp:~/Documents
+      last_active_term = ab4ada19-0a55-42b8-a004-bf45f78718aa
+      last_active_window = True
+    [[[child1]]]
+      type = HPaned
+      parent = child0
+      order = 0
+      position = 958
+      ratio = 0.5002610966057441
+    [[[terminal2]]]
+      type = Terminal
+      parent = child1
+      order = 0
+      profile = default
+      uuid = ab4ada19-0a55-42b8-a004-bf45f78718aa
+      command = ""
+      directory = /home/elias/Documents
+    [[[child3]]]
+      type = VPaned
+      parent = child1
+      order = 1
+      position = 523
+      ratio = 0.5
+    [[[terminal4]]]
+      type = Terminal
+      parent = child3
+      order = 0
+      profile = default
+      uuid = b0e1df4d-369f-4407-a960-da00fc110ed1
+      directory = ""
+    [[[terminal5]]]
+      type = Terminal
+      parent = child3
+      order = 1
+      profile = default
+      uuid = 4b3dc752-4ff7-4597-b8c6-dbadebea9241
+      directory = /home/elias/Documents
+[plugins]
