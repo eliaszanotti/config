@@ -1,11 +1,3 @@
 # Elias ZANOTTI
 
-eggfve
-fefjefe
-enjefnfe
-fefeeffe
-f
-e
-fefeffee
-
-## Ok alore
+Student at school 42 !
