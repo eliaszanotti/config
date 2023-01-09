@@ -12,7 +12,7 @@
       <property name="icon-size" type="uint" value="32"/>
       <property name="size" type="uint" value="50"/>
       <property name="plugin-ids" type="array">
-        <value type="int" value="1"/>
+        <value type="int" value="19"/>
         <value type="int" value="8"/>
         <value type="int" value="2"/>
         <value type="int" value="3"/>
@@ -34,13 +34,6 @@
     </property>
   </property>
   <property name="plugins" type="empty">
-    <property name="plugin-1" type="string" value="applicationsmenu">
-      <property name="show-menu-icons" type="bool" value="true"/>
-      <property name="show-generic-names" type="bool" value="false"/>
-      <property name="show-button-title" type="bool" value="false"/>
-      <property name="button-icon" type="string" value="folder-apple"/>
-      <property name="custom-menu" type="bool" value="false"/>
-    </property>
     <property name="plugin-2" type="string" value="tasklist">
       <property name="grouping" type="uint" value="1"/>
       <property name="show-labels" type="bool" value="false"/>
@@ -56,6 +49,7 @@
     <property name="plugin-6" type="string" value="systray">
       <property name="square-icons" type="bool" value="true"/>
       <property name="known-legacy-items" type="array">
+        <value type="string" value="synapse"/>
         <value type="string" value="connexion au réseau wi-fi « iphone 25 » active : iphone 25 (90 %)"/>
         <value type="string" value="connexion au réseau wi-fi « iphone 25 » active : iphone 25 (92 %)"/>
         <value type="string" value="connexion au réseau wi-fi « iphone 25 » active : iphone 25 (95 %)"/>
@@ -100,5 +94,6 @@
     <property name="plugin-8" type="string" value="separator">
       <property name="style" type="uint" value="0"/>
     </property>
+    <property name="plugin-19" type="string" value="whiskermenu"/>
   </property>
 </channel>
