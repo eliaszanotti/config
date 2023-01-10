@@ -1,33 +1,3 @@
-
-Skip to content
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
-@eliaszanotti
-42Paris /
-42header
-Public
-
-Fork your own copy of 42Paris/42header
-
-Code
-Issues 3
-Pull requests 4
-Actions
-Projects
-Security
-
-    Insights
-
-42header/plugin/stdheader.vim
-@alexandregv
-alexandregv Merge master from source repo to get latest PR and remove unwanted ch…
-Latest commit fe896a5 Oct 30, 2021
-History
-1 contributor
-149 lines (129 sloc) 3.34 KB
 let s:asciiart = [
 			\"        :::      ::::::::",
 			\"      :+:      :+:    :+:",
@@ -123,7 +93,7 @@ function! s:mail()
 	if exists('g:mail42')
 		return g:mail42
 	endif
-	let l:mail = $MAIL
+	let l:mail = "zanotti.elias@gmail.com"
 	if strlen(l:mail) == 0
 		let l:mail = "marvin@42.fr"
 	endif
@@ -177,21 +147,3 @@ endfunction
 command! Stdheader call s:stdheader ()
 map <F1> :Stdheader<CR>
 autocmd BufWritePre * call s:update ()
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-
-    Terms
-    Privacy
-    Security
-    Status
-    Docs
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
-
-42header/stdheader.vim at master · 42Paris/42header
-
