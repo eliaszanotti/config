@@ -61,6 +61,10 @@
       <property name="&lt;Primary&gt;&lt;Alt&gt;q" type="string" value="xfce4-session-logout"/>
       <property name="&lt;Super&gt;t" type="string" value="exo-open --launch TerminalEmulator"/>
       <property name="&lt;Super&gt;space" type="string" value="xfce4-popup-whiskermenu"/>
+      <property name="AudioRaiseVolume" type="string" value="amixer -q sset Master 3%+"/>
+      <property name="AudioLowerVolume" type="string" value="amixer -q sset Master 3%-"/>
+      <property name="AudioMute" type="string" value="amixer -q sset Master toggle
+"/>
     </property>
   </property>
   <property name="xfwm4" type="empty">
