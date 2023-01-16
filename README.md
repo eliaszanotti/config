@@ -1,3 +1,3 @@
 # Elias ZANOTTI
 
-Student at school 42 !
+Student at 42 school !
