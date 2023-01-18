@@ -19,7 +19,7 @@ Student at 42 school !
 ██║ ╚═╝ ██║██║██║ ╚████║██║███████║██║  ██║███████╗███████╗███████╗
 ╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝
 ```
-[MINISHELL Page](https://github.com/eliaszanotti/minishell)
+[MINISHELL page](https://github.com/eliaszanotti/minishell)
 ```
 ██████╗ ██╗  ██╗██╗██╗      ██████╗ ███████╗ ██████╗ ██████╗ ██╗  ██╗███████╗██████╗ ███████╗
 ██╔══██╗██║  ██║██║██║     ██╔═══██╗██╔════╝██╔═══██╗██╔══██╗██║  ██║██╔════╝██╔══██╗██╔════╝
@@ -27,7 +27,7 @@ Student at 42 school !
 ██╔═══╝ ██╔══██║██║██║     ██║   ██║╚════██║██║   ██║██╔═══╝ ██╔══██║██╔══╝  ██╔══██╗╚════██║
 ██║     ██║  ██║██║███████╗╚██████╔╝███████║╚██████╔╝██║     ██║  ██║███████╗██║  ██║███████║
 ```
-[MINISHELL Page](https://github.com/eliaszanotti/philo)
+[PHILOSOPHERS page](https://github.com/eliaszanotti/philo)
 ```
 ██████╗ ██╗██████╗ ███████╗██╗  ██╗                                                          
 ██╔══██╗██║██╔══██╗██╔════╝╚██╗██╔╝                                                          
@@ -36,7 +36,7 @@ Student at 42 school !
 ██║     ██║██║     ███████╗██╔╝ ██╗                                                          
 ╚═╝     ╚═╝╚═╝     ╚══════╝╚═╝  ╚═╝                                                          
 ```
-[MINISHELL Page](https://github.com/eliaszanotti/pipex)
+[PIPEX page](https://github.com/eliaszanotti/pipex)
 ```
 ██████╗ ██╗   ██╗███████╗██╗  ██╗      ███████╗██╗    ██╗ █████╗ ██████╗                     
 ██╔══██╗██║   ██║██╔════╝██║  ██║      ██╔════╝██║    ██║██╔══██╗██╔══██╗                    
@@ -45,7 +45,7 @@ Student at 42 school !
 ██║     ╚██████╔╝███████║██║  ██║      ███████║╚███╔███╔╝██║  ██║██║                         
 ╚═╝      ╚═════╝ ╚══════╝╚═╝  ╚═╝      ╚══════╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝                         
 ```
-[MINISHELL Page](https://github.com/eliaszanotti/push_swap)
+[PUSH-SWAP page](https://github.com/eliaszanotti/push_swap)
 ```
 ███████╗██████╗ ███████╗                      
 ██╔════╝██╔══██╗██╔════╝                      
@@ -54,7 +54,8 @@ Student at 42 school !
 ██║     ██████╔╝██║                           
 ╚═╝     ╚═════╝ ╚═╝  
 ```
-[MINISHELL Page](https://github.com/eliaszanotti/fdf)
+[FDF page](https://github.com/eliaszanotti/fdf)
+[FDF maps](https://github.com/eliaszanotti/fdf-maps)
 ```
  ██████╗ ███╗   ██╗██╗     
 ██╔════╝ ████╗  ██║██║     
@@ -63,7 +64,7 @@ Student at 42 school !
 ╚██████╔╝██║ ╚████║███████╗
  ╚═════╝ ╚═╝  ╚═══╝╚══════╝
 ```
-[MINISHELL Page](https://github.com/eliaszanotti/gnl)
+[GNL page](https://github.com/eliaszanotti/gnl)
 ```
 ██████╗ ██████╗ ██╗███╗   ██╗████████╗███████╗
 ██╔══██╗██╔══██╗██║████╗  ██║╚══██╔══╝██╔════╝
@@ -72,7 +73,7 @@ Student at 42 school !
 ██║     ██║  ██║██║██║ ╚████║   ██║   ██║     
 ╚═╝     ╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝     
 ```
-[MINISHELL Page](https://github.com/eliaszanotti/printf)
+[PRINTF page](https://github.com/eliaszanotti/printf)
 ```
 ██████╗ ██████╗ ██████╗ ██████╗                                                              
 ██╔══██╗╚════██╗██╔══██╗██╔══██╗                                                             
@@ -81,7 +82,7 @@ Student at 42 school !
 ██████╔╝███████╗██████╔╝██║  ██║                                                             
 ╚═════╝ ╚══════╝╚═════╝ ╚═╝  ╚═╝                                                             
 ```
-[MINISHELL Page](https://github.com/eliaszanotti/b2br)
+[B2BR page](https://github.com/eliaszanotti/b2br)
 ```
 ██╗     ██╗██████╗ ███████╗████████╗                                                         
 ██║     ██║██╔══██╗██╔════╝╚══██╔══╝                                                         
@@ -90,4 +91,4 @@ Student at 42 school !
 ███████╗██║██████╔╝██║        ██║                                                            
 ╚══════╝╚═╝╚═════╝ ╚═╝        ╚═╝                                                            
 ```
-[MINISHELL Page](https://github.com/eliaszanotti/libft)
+[LIBFT page](https://github.com/eliaszanotti/libft)
