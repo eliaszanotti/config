@@ -45,7 +45,7 @@ Student at 42 school !
 ██║     ╚██████╔╝███████║██║  ██║      ███████║╚███╔███╔╝██║  ██║██║                         
 ╚═╝      ╚═════╝ ╚══════╝╚═╝  ╚═╝      ╚══════╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝                         
 ```
-[MINISHELL Page](https://github.com/eliaszanotti/push-swap)
+[MINISHELL Page](https://github.com/eliaszanotti/push_swap)
 ```
 ███████╗██████╗ ███████╗                      
 ██╔════╝██╔══██╗██╔════╝                      
