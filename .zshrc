@@ -74,7 +74,7 @@ plugins=(git sudo copybuffer dirhistory)
 
 source $ZSH/oh-my-zsh.sh
 source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
-source /opt/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+source ~/.zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
 # User configuration
 
@@ -128,3 +128,4 @@ alias x="exit"
 alias leaks="valgrind --leak-check=full --show-leak-kinds=all"
 alias db="gdbgui"
 alias bat="bat --theme=ansi"
+alias logout="xfce4-session-logout --logout"
