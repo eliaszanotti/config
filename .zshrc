@@ -1,13 +1,10 @@
 # If you come from bash you might have to change your $PATH.
-export PATH=$HOME/bin:/usr/local/bin:/home/elias/.local/bin:$PATH
+export PATH=$HOME/bin:/usr/local/bin:$HOME/.local/bin:$PATH
+export PATH=$HOME/.local/bin:$PATH
+export PATH=$HOME/.meld/bin:$PATH
 
 # Path to your oh-my-zsh installation.
 export ZSH="$HOME/.oh-my-zsh"
-
-# Set name of the theme to load --- if set to "random", it will
-# load a random theme each time oh-my-zsh is loaded, in which case,
-# to know which specific one was loaded, run: echo $RANDOM_THEME
-# See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
 ZSH_THEME="robbyrussell"
 
 # Set list of themes to pick from when loading at random
@@ -70,11 +67,12 @@ ZSH_THEME="robbyrussell"
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
+export ZSH_DISABLE_COMPFIX=true
 plugins=(git sudo copybuffer dirhistory)
 
 source $ZSH/oh-my-zsh.sh
 source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
-source /opt/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+source ~/.zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
 # User configuration
 
@@ -103,8 +101,8 @@ export EDITOR='vim'
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 export DEBUGINFOD_URLS="https://debuginfod.archlinux.org"
 
-alias francinette=/home/elias/francinette/tester.sh
-alias paco=/home/elias/francinette/tester.sh
+alias francinette=/nfs/homes/ezanotti/francinette/tester.sh
+alias paco=/nfs/homes/ezanotti/francinette/tester.sh
 #alias	git
 alias gs="git status"
 alias gc="git commit"
@@ -128,3 +126,8 @@ alias x="exit"
 alias leaks="valgrind --leak-check=full --show-leak-kinds=all"
 alias db="gdbgui"
 alias bat="bat --theme=ansi"
+
+source ~/.profile
+
+clear
+curl -s fr.wttr.in/$CITY\?0
