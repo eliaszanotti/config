@@ -11,64 +11,38 @@ Student at 42 school !
 
 # 42 Projects 
 
-<br>
-<br>
+[<kbd> <br> MINISHELL <br> </kbd>][Link]
 
+[Link]: https://github.com/eliaszanotti/minishell
 
-</div>
+[<kbd> <br> PHILOSOPHERS <br> </kbd>][Link2]
 
-<br>
-<br>
+[Link]: https://github.com/eliaszanotti/philo
 
-[<kbd> <br> Title <br> </kbd>][Link]
+[<kbd> <br> PIPEX <br> </kbd>][Link3]
 
-[Link]: 'https://github.com/eliaszanotti/minishell'
+[Link]: https://github.com/eliaszanotti/pipex
 
+[<kbd> <br> PUSH-SWAP <br> </kbd>][Link]
 
-[<kbd> <br> Title2 <br> </kbd>][Link]
+[Link]: https://github.com/eliaszanotti/push-swap
 
-[Link]: 'google.com'
+[<kbd> <br> FDF <br> </kbd>][Link]
 
+[Link]: https://github.com/eliaszanotti/fdf
 
+[<kbd> <br> GNL <br> </kbd>][Link]
 
+[Link]: https://github.com/eliaszanotti/gnl
 
+[<kbd> <br> PRINTF <br> </kbd>][Link]
 
-[![Button Shield]][Shield]
+[Link]: https://github.com/eliaszanotti/printf
 
-```
-MINISHELL
-```
-[MINISHELL page](https://github.com/eliaszanotti/minishell)
-```
-PHILOSOPHERS
-```
-[PHILOSOPHERS page](https://github.com/eliaszanotti/philo)
-```
-PIPEX
-```
-[PIPEX page](https://github.com/eliaszanotti/pipex)
-```
-PUSH-SWAP                 
-```
-[PUSH-SWAP page](https://github.com/eliaszanotti/push_swap)
-```
-FDF
-```
-[FDF page](https://github.com/eliaszanotti/fdf)<br>
-[FDF maps](https://github.com/eliaszanotti/fdf-maps)
-```
-GNL
-```
-[GNL page](https://github.com/eliaszanotti/gnl)
-```
-PRINTF   
-```
-[PRINTF page](https://github.com/eliaszanotti/printf)
-```
-B2BR                                                 
-```
-[B2BR page](https://github.com/eliaszanotti/b2br)
-```
-LIBFT                                                           
-```
-[LIBFT page](https://github.com/eliaszanotti/libft)
+[<kbd> <br> B2BR <br> </kbd>][Link]
+
+[Link]: https://github.com/eliaszanotti/b2br
+
+[<kbd> <br> LIBFT <br> </kbd>][Link]
+
+[Link]: https://github.com/eliaszanotti/libft
