@@ -9,6 +9,10 @@
 
 Student at 42 school !
 
+
+<div align = center>
+
+
 # 42 Projects 
 
 [<kbd> <br> MINISHELL <br> </kbd>][Link]
@@ -46,3 +50,5 @@ Student at 42 school !
 [<kbd> <br> LIBFT <br> </kbd>][Link9]
 
 [Link9]: https://github.com/eliaszanotti/libft
+
+ </div>
