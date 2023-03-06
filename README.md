@@ -17,32 +17,32 @@ Student at 42 school !
 
 [<kbd> <br> PHILOSOPHERS <br> </kbd>][Link2]
 
-[Link]: https://github.com/eliaszanotti/philo
+[Link2]: https://github.com/eliaszanotti/philo
 
 [<kbd> <br> PIPEX <br> </kbd>][Link3]
 
-[Link]: https://github.com/eliaszanotti/pipex
+[Link3]: https://github.com/eliaszanotti/pipex
 
-[<kbd> <br> PUSH-SWAP <br> </kbd>][Link]
+[<kbd> <br> PUSH-SWAP <br> </kbd>][Link4]
 
-[Link]: https://github.com/eliaszanotti/push-swap
+[Link4]: https://github.com/eliaszanotti/push-swap
 
-[<kbd> <br> FDF <br> </kbd>][Link]
+[<kbd> <br> FDF <br> </kbd>][Link5]
 
-[Link]: https://github.com/eliaszanotti/fdf
+[Link5]: https://github.com/eliaszanotti/fdf
 
-[<kbd> <br> GNL <br> </kbd>][Link]
+[<kbd> <br> GNL <br> </kbd>][Link6]
 
-[Link]: https://github.com/eliaszanotti/gnl
+[Link6]: https://github.com/eliaszanotti/gnl
 
-[<kbd> <br> PRINTF <br> </kbd>][Link]
+[<kbd> <br> PRINTF <br> </kbd>][Link7]
 
-[Link]: https://github.com/eliaszanotti/printf
+[Link7]: https://github.com/eliaszanotti/printf
 
-[<kbd> <br> B2BR <br> </kbd>][Link]
+[<kbd> <br> B2BR <br> </kbd>][Link8]
 
-[Link]: https://github.com/eliaszanotti/b2br
+[Link8]: https://github.com/eliaszanotti/b2br
 
-[<kbd> <br> LIBFT <br> </kbd>][Link]
+[<kbd> <br> LIBFT <br> </kbd>][Link9]
 
-[Link]: https://github.com/eliaszanotti/libft
+[Link9]: https://github.com/eliaszanotti/libft
