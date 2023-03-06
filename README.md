@@ -25,7 +25,7 @@ Student at 42 school !
 
 [<kbd> <br> PUSH-SWAP <br> </kbd>][Link4]
 
-[Link4]: https://github.com/eliaszanotti/push-swap
+[Link4]: https://github.com/eliaszanotti/push_swap
 
 [<kbd> <br> FDF <br> </kbd>][Link5]
 
