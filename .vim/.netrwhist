@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =1
+let g:netrw_dirhist_1='/home/elias/Documents/pipex/srcs/utils'
+let g:netrw_dirhist_0='/home/elias/Documents/minishell/includes'
+let g:netrw_dirhist_9='/home/elias/Documents/minishell/srcs/utils'
+let g:netrw_dirhist_8='/home/elias/Documents/minishell/includes'
+let g:netrw_dirhist_7='/home/elias/Documents/minishell/srcs/utils'
+let g:netrw_dirhist_6='/home/elias/Documents/minishell/srcs/exec'
+let g:netrw_dirhist_5='/home/elias/Documents/minishell/srcs'
+let g:netrw_dirhist_4='/home/elias/Documents/minishell/srcs/builtins'
+let g:netrw_dirhist_3='/home/elias/Documents/minishell/libft'
+let g:netrw_dirhist_2='/home/elias/Documents/minishell'
