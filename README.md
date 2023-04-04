@@ -28,5 +28,3 @@ Student at 42 school !
 [Link10]: https://github.com/eliaszanotti/cub3D
 
  </div>
- 
- https://prod.liveshare.vsengsaas.visualstudio.com/join?5CFCE5E249B1CA84DBC27D4A0C4BC9929BAD
