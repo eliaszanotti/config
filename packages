@@ -1,6 +1,5 @@
 clang
 flatpak
-flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
 gcc
 git
 gnome-tweaks
@@ -10,6 +9,7 @@ gnome-software-plugin-flatpak
 ifuse
 lldb
 make
+meld
 preload
 terminator
 timeshift
