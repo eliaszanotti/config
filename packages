@@ -7,9 +7,10 @@ gnome-shell-extension-manager
 gnome-shell-extensions
 gnome-software-plugin-flatpak
 ifuse
-lldb
-libx11-dev
+libbsd-dev
 libreadline6-dev
+libx11-dev
+lldb
 make
 meld
 preload
@@ -20,4 +21,5 @@ tlp-rdw
 ubuntu-restricted-extras
 valgrind
 vim
+xorg-dev
 zsh
