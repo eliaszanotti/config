@@ -8,6 +8,8 @@ gnome-shell-extensions
 gnome-software-plugin-flatpak
 ifuse
 lldb
+libx11-dev
+libreadline6-dev
 make
 meld
 preload
