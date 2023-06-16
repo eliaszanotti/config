@@ -13,6 +13,7 @@ libx11-dev
 lldb
 make
 meld
+neovim
 preload
 terminator
 timeshift
