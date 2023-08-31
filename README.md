@@ -39,14 +39,9 @@ Student at 42 school !
 [Link9]: https://github.com/eliaszanotti/libft
 [Link10]: https://github.com/eliaszanotti/cub3D 
  
- </div>
+</div>
 
-![eliaszanotti's Stats](https://github-readme-stats.vercel.app/api?username=eliaszanotti&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-
-
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,c,cpp,css,git,github,html,linux,md,mysql,neovim,py,raspberrypi,selenium,svg,vim,vscode,wordpress&perline=6&theme=dark" />
-  </a>
-</p>
+<div align=center>
+	<h2>Skills</h2>
+	<img src="https://skillicons.dev/icons?i=bash,c,cpp,css,git,github,html,linux,md,mysql,neovim,py,raspberrypi,selenium,svg,vim,vscode,wordpress&perline=6&theme=dark" />
+</div>
