@@ -24,12 +24,16 @@ Student at 42 school !
 
 
 
-	* [<kbd>Libft](https://github.com/eliaszanotti/libft) 
-		<img height="20" width="20" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c">
-	* [<kbd>ft_printf](https://github.com/eliaszanotti/ft_printf) <img height="13" width="13" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c">
-	* [<kbd>Get_next_line](https://github.com/eliaszanotti/get_next_line) <img height="13" width="13" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c">
-	* [<kbd>Fdf](https://github.com/eliaszanotti/fdf) <img height="13" width="13" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c">
-   * [<kbd>Push_swap](https://github.com/eliaszanotti/push_swap) <img height="13" width="13" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c">
+* [<kbd>Libft](https://github.com/eliaszanotti/libft) 
+	<img height="13" width="13" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c">
+* [<kbd>Printf](https://github.com/eliaszanotti/printf)
+	<img height="13" width="13" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c">
+* [<kbd>GNL](https://github.com/eliaszanotti/gnl)
+	<img height="13" width="13" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c">
+* [<kbd>Fdf](https://github.com/eliaszanotti/fdf)
+	<img height="13" width="13" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c">
+* [<kbd>Push_swap](https://github.com/eliaszanotti/push_swap)
+	<img height="13" width="13" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c">
    * [<kbd>Pipex](https://github.com/eliaszanotti/pipex) <img height="13" width="13" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c">
    * [<kbd>Minishell](https://github.com/eliaszanotti/minishell) <img height="13" width="13" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c">
    * [<kbd>Philosophers](https://github.com/eliaszanotti/philo) <img height="13" width="13" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c">
