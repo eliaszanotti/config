@@ -15,7 +15,7 @@ class Presentation
 }
 ```
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eliaszanotti&label=Profile%20views&color=0e75b6&style=flat" alt="EliasZanotti" /> </p>
+<img src="https://komarev.com/ghpvc/?username=eliaszanotti&label=Visitors&color=red&style=flat-square"/>
 
 
 
