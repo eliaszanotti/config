@@ -1,11 +1,17 @@
+```cpp
+class Presentation
+{
+	private:
+		std::string	_name = "ZANOTTI";
+		std::string	_firstname = "Elias"
+		std::string	_school = "42 School"
+		std::string	_city = "Lyon"
+		std::int	_age = 19;
+
+	public:
+		void	sayHello(void) const;
+}
 ```
-███████╗██╗     ██╗ █████╗ ███████╗    ███████╗ █████╗ ███╗   ██╗ ██████╗ ████████╗████████╗██╗
-██╔════╝██║     ██║██╔══██╗██╔════╝    ╚══███╔╝██╔══██╗████╗  ██║██╔═══██╗╚══██╔══╝╚══██╔══╝██║
-█████╗  ██║     ██║███████║███████╗      ███╔╝ ███████║██╔██╗ ██║██║   ██║   ██║      ██║   ██║
-██╔══╝  ██║     ██║██╔══██║╚════██║     ███╔╝  ██╔══██║██║╚██╗██║██║   ██║   ██║      ██║   ██║
-███████╗███████╗██║██║  ██║███████║    ███████╗██║  ██║██║ ╚████║╚██████╔╝   ██║      ██║   ██║
-╚══════╝╚══════╝╚═╝╚═╝  ╚═╝╚══════╝    ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝    ╚═╝      ╚═╝   ╚═╝
-```                                        
 
 Student at 42 school !
 
@@ -25,6 +31,10 @@ Student at 42 school !
 [Link7]: https://github.com/eliaszanotti/printf
 [Link8]: https://github.com/eliaszanotti/b2br
 [Link9]: https://github.com/eliaszanotti/libft
-[Link10]: https://github.com/eliaszanotti/cub3D
-
+[Link10]: https://github.com/eliaszanotti/cub3D 
+ 
  </div>
+
+![eliaszanotti's Stats](https://github-readme-stats.vercel.app/api?username=eliaszanotti&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
+
