@@ -41,7 +41,5 @@ Student at 42 school !
  
 </div>
 
-<div align=center>
-	<h2>Skills</h2>
-	<img src="https://skillicons.dev/icons?i=bash,c,cpp,css,git,github,html,linux,md,mysql,neovim,py,raspberrypi,selenium,svg,vim,vscode,wordpress&perline=6&theme=dark" />
-</div>
+<h2>Skills</h2>
+<img src="https://skillicons.dev/icons?i=bash,c,cpp,css,git,github,html,linux,md,mysql,neovim,py,raspberrypi,selenium,svg,vim,vscode,wordpress&perline=6&theme=dark" />
