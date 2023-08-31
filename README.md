@@ -44,3 +44,7 @@ Student at 42 school !
 ![eliaszanotti's Stats](https://github-readme-stats.vercel.app/api?username=eliaszanotti&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
 
+
+[![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,css,git,github,html,linux,md,mysql,neovim,py,raspberrypi,selenium,svg,vim,vscode,wordpress)](https://skillicons.dev)
+
+
