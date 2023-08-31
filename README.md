@@ -15,6 +15,10 @@ class Presentation
 }
 ```
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eliaszanotti&label=Profile%20views&color=0e75b6&style=flat" alt="EliasZanotti" /> </p>
+
+
+
 Student at 42 school !
 
 
