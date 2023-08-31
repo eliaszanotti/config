@@ -45,6 +45,6 @@ Student at 42 school !
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,css,git,github,html,js,linux,md,mysql,neovim,py,raspberrypi,selenium,svg,vim,vscode,wordpress&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,css,git,github,html,linux,md,mysql,neovim,py,raspberrypi,selenium,svg,vim,vscode,wordpress&perline=6)](https://skillicons.dev)
 
 
