@@ -8,7 +8,7 @@ class Presentation
 		std::string	_firstname = "Elias"
 		std::string	_school = "42 School"
 		std::string	_city = "Lyon"
-		std::int	_age = 19;
+		std::int	_age = 20;
 
 	public:
 		void	sayHello(void) const;
@@ -17,9 +17,14 @@ class Presentation
 
 <img src="https://komarev.com/ghpvc/?username=eliaszanotti&label=Visitors&color=red&style=flat-square"/>
 
-
-
 Student at 42 school !
+
+<details close>
+   <summary><b>Personal projects</b></summary>
+
+   * [<kbd>Eliarch 🎨 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">](https://github.com/eliaszanotti/eliarch)
+   * [<kbd>Deesh 🎶 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">](https://github.com/eliaszanotti/deesh)
+</details>
 
 
 
