@@ -39,7 +39,7 @@ Student at 42 school !
    7. [<kbd>Philosophers <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">](https://github.com/eliaszanotti/Philosophers)
    8. [<kbd>Minishell 👥 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">](https://github.com/eliaszanotti/Minishell)
    9. [<kbd>Cub3D 🎨 👥 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">](https://github.com/eliaszanotti/cub3d)
-   10. [<kbd> CPP modules]
+   10. CPP modules
        * [<kbd>cpp00 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/eliaszanotti/cpp00)
        * [<kbd>cpp01 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/eliaszanotti/cpp01)
        * [<kbd>cpp02 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/eliaszanotti/cpp02)
@@ -50,22 +50,6 @@ Student at 42 school !
        * [<kbd>cpp07 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/eliaszanotti/cpp07)
        * [<kbd>cpp08 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/eliaszanotti/cpp08)
        * [<kbd>cpp09 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/eliaszanotti/cpp09)
-   11. [<kbd>IRC 👥 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/eliaszanotti/irc)
-
-
-
-
-   10. [<kbd>CPP Modules)
-       * [<kbd>10.00 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/eliaszanotti/cpp00)
-       * [<kbd>10.01 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/eliaszanotti/CppModules/tree/master/Cpp01)
-       * [<kbd>10.02 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/eliaszanotti/CppModules/tree/master/Cpp02)
-       * [<kbd>10.03 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/eliaszanotti/CppModules/tree/master/Cpp03)
-       * [<kbd>10.04 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/eliaszanotti/CppModules/tree/master/Cpp04)
-       * [<kbd>10.05 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/eliaszanotti/CppModules/tree/master/Cpp05)
-       * [<kbd>10.06 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/eliaszanotti/CppModules/tree/master/Cpp06)
-       * [<kbd>10.07 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/eliaszanotti/CppModules/tree/master/Cpp07)
-       * [<kbd>10.08 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/eliaszanotti/CppModules/tree/master/Cpp08)
-       * [<kbd>10.09 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/eliaszanotti/CppModules/tree/master/Cpp09)
    11. [<kbd>IRC 👥 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/eliaszanotti/irc)
    12. [<kbd>Inception <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"> <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">](https://github.com/eliaszanotti/inception)
    13. [<kbd>Transcendence 🎨 👥 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"> <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"> <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"> <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">](https://github.com/ThibaultGiraudon/transcendence) 
