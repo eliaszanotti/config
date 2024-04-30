@@ -22,8 +22,8 @@ Student at 42 school !
 <details close>
    <summary><b>Personal projects</b></summary>
 
-   * [<kbd>Eliarch 🎨 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">](https://github.com/eliaszanotti/eliarch)
-   * [<kbd>Deesh 🎶 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">](https://github.com/eliaszanotti/deesh)
+   * [<kbd>Eliarch <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">](https://github.com/eliaszanotti/eliarch)
+   * [<kbd>Deesh <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">](https://github.com/eliaszanotti/deesh)
 </details>
 
 
