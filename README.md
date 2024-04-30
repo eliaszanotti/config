@@ -39,6 +39,22 @@ Student at 42 school !
    7. [<kbd>Philosophers <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">](https://github.com/eliaszanotti/Philosophers)
    8. [<kbd>Minishell 👥 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">](https://github.com/eliaszanotti/Minishell)
    9. [<kbd>Cub3D 🎨 👥 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">](https://github.com/eliaszanotti/cub3d)
+   10. [<kbd> CPP modules]
+       * [<kbd>cpp00 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/eliaszanotti/cpp00)
+       * [<kbd>cpp01 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/eliaszanotti/cpp01)
+       * [<kbd>cpp02 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/eliaszanotti/cpp02)
+       * [<kbd>cpp03 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/eliaszanotti/cpp03)
+       * [<kbd>cpp04 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/eliaszanotti/cpp04)
+       * [<kbd>cpp05 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/eliaszanotti/cpp05)
+       * [<kbd>cpp06 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/eliaszanotti/cpp06)
+       * [<kbd>cpp07 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/eliaszanotti/cpp07)
+       * [<kbd>cpp08 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/eliaszanotti/cpp08)
+       * [<kbd>cpp09 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/eliaszanotti/cpp09)
+   11. [<kbd>IRC 👥 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/eliaszanotti/irc)
+
+
+
+
    10. [<kbd>CPP Modules)
        * [<kbd>10.00 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/eliaszanotti/cpp00)
        * [<kbd>10.01 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/eliaszanotti/CppModules/tree/master/Cpp01)
