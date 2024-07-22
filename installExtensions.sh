@@ -10,12 +10,10 @@ code --install-extension github.copilot
 code --install-extension github.copilot-chat
 code --install-extension github.github-vscode-theme
 code --install-extension gruntfuggly.todo-tree
-code --install-extension jpotterm.simple-vim
 code --install-extension mechatroner.rainbow-csv
 code --install-extension ms-python.debugpy
 code --install-extension ms-python.python
 code --install-extension ms-python.vscode-pylance
-code --install-extension ryuta46.multi-command
 code --install-extension visualstudioexptteam.intellicode-api-usage-examples
 code --install-extension visualstudioexptteam.vscodeintellicode
 code --install-extension vscodevim.vim
