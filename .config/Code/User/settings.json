@@ -1,4 +1,5 @@
-workbench.startupEditor": "none",
+{
+    "workbench.startupEditor": "none",
     "editor.fontSize": 16,
     "editor.renderControlCharacters": false,
     "window.zoomLevel": 1,
