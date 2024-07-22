@@ -28,8 +28,8 @@
   split_horiz = <Primary><Shift>d
   split_vert = <Primary>d
   close_term = <Alt>x
-  copy = <Primary>c
-  paste = <Primary>v
+  copy = <Primary><Shift>c
+  paste = <Primary><Shift>v
   toggle_scrollbar = ""
   search = ""
   close_window = ""
