@@ -48,24 +48,31 @@ install_kvm() {
     sudo usermod -aG kvm $USER
 }
 
-for arg in "$@"
-do
-    case "$arg" in
-        --packages)
-            install_packages
-            ;;
-        --code)
-            install_code
-            ;;
-        --docker)
-            install_docker
-            ;;
-        --kvm)
-            install_kvm
-            ;;
-        *)
-            echo "Usage: $0 {--packages|--code|--docker|--kvm}"
-            exit 1
-            ;;
-    esac
-done
+if [ $# -eq 0 ]; then
+    install_packages
+    install_code
+    install_docker
+    install_kvm
+else
+    for arg in "$@"
+    do
+        case "$arg" in
+            --packages)
+                install_packages
+                ;;
+            --code)
+                install_code
+                ;;
+            --docker)
+                install_docker
+                ;;
+            --kvm)
+                install_kvm
+                ;;
+            *)
+                echo "Usage: $0 {--packages|--code|--docker|--kvm}"
+                exit 1
+                ;;
+        esac
+    done
+fi
