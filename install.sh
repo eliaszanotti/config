@@ -31,6 +31,9 @@ install_docker() {
 
     sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
     sudo apt-get install docker-compose-plugin
+
+    sudo groupadd docker
+    sudo usermod -aG docker $USER
 }
 
 for arg in "$@"
