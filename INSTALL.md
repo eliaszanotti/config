@@ -1,25 +1,3 @@
-# Vs Code
-
-Export all extensions
-
-```bash
-code --list-extensions | xargs -L 1 echo code --install-extension > installExtensions.sh
-```
-
-Install extensions
-
-```bash
-sh installExtensions.sh
-```
-
-# Oh My ZSH
-
-Install Oh My ZSH
-
-```bash
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
-```
-
 # Docker
 
 Install Docker
@@ -61,3 +39,7 @@ Test Docker
 ```bash
 sudo docker run hello-world
 ```
+
+# Sync 
+
+Add .sync/sync.sh in a crontab -e for auto sync home folder
