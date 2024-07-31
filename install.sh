@@ -3,7 +3,7 @@
 install_packages() {
     echo -e "\e[32mInstalling packages...\e[0m"
     sudo apt-get update
-    sudo apt install -y autojump filezilla git terminator vim zsh
+    sudo apt-get install autojump filezilla git terminator vim zsh
 }
 
 install_code() {
@@ -30,10 +30,22 @@ install_docker() {
     sudo apt-get update
 
     sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
-    sudo apt-get install docker-compose-plugin
 
     sudo groupadd docker
     sudo usermod -aG docker $USER
+}
+
+install_kvm() {
+    echo -e "\e[32mInstalling KVM...\e[0m"
+    sudo apt-get install qemu-kvm libvirt-daemon-system libvirt-clients bridge-utils virtinst virt-manager
+    sudo apt-get install virtiofsd
+    sudo apt-get install spice-vdagent spice-webdavd
+
+    sudo systemctl enable libvirtd
+    sudo systemctl start libvirtd
+
+    sudo usermod -aG libvirt $USER
+    sudo usermod -aG kvm $USER
 }
 
 for arg in "$@"
@@ -48,8 +60,11 @@ do
         --docker)
             install_docker
             ;;
+        --kvm)
+            install_kvm
+            ;;
         *)
-            echo "Usage: $0 {--packages|--code|--docker}"
+            echo "Usage: $0 {--packages|--code|--docker|--kvm}"
             exit 1
             ;;
     esac
